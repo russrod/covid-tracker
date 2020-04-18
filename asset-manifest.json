@@ -1,0 +1,13 @@
+{
+  "main.css": "/covid-tracker/static/css/main.2f687ddc.chunk.css",
+  "main.js": "/covid-tracker/static/js/main.4419c345.chunk.js",
+  "main.js.map": "/covid-tracker/static/js/main.4419c345.chunk.js.map",
+  "static/js/1.bd62c9fc.chunk.js": "/covid-tracker/static/js/1.bd62c9fc.chunk.js",
+  "static/js/1.bd62c9fc.chunk.js.map": "/covid-tracker/static/js/1.bd62c9fc.chunk.js.map",
+  "runtime~main.js": "/covid-tracker/static/js/runtime~main.0cdb763e.js",
+  "runtime~main.js.map": "/covid-tracker/static/js/runtime~main.0cdb763e.js.map",
+  "static/css/main.2f687ddc.chunk.css.map": "/covid-tracker/static/css/main.2f687ddc.chunk.css.map",
+  "index.html": "/covid-tracker/index.html",
+  "precache-manifest.3d4a5de03bd08eebd259c0be2ef8ba55.js": "/covid-tracker/precache-manifest.3d4a5de03bd08eebd259c0be2ef8ba55.js",
+  "service-worker.js": "/covid-tracker/service-worker.js"
+}
